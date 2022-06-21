@@ -8,4 +8,4 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 1. Some PC exclusive features have been removed.
 
-**Big Special Thanks to nik, cubeww, m1s3ry, SilicaAndPina and KuromeSan.**
+**Big Special Thanks to nik, GoldenSky, cubeww, m1s3ry, SilicaAndPina and KuromeSan.**
