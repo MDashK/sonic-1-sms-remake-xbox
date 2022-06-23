@@ -9,5 +9,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 **Some notes:**
 
 1. Some PC exclusive features have been removed.
+2. If the game starts with black borders around, disable your overscan setting in your Xbox settings.
 
 **Big Special Thanks to nik, GoldenSky, cubeww, m1s3ry, SilicaAndPina and KuromeSan.**
